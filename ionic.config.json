@@ -1,0 +1,7 @@
+{
+  "name": "MoneyApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
